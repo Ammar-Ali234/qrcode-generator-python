@@ -1,12 +1,17 @@
 # QR Code Generator
 
-This project is a simple QR Code Generator web application built using Streamlit. The user can input a link, generate a QR code, and download it as a PNG file.
+This project is a simple QR Code Generator web application built using Streamlit. Users can input a link, generate a QR code, and download it as a PNG file.
 
 ## Features
 
 - Generate a QR code from a provided link.
 - Display the generated QR code.
 - Download the generated QR code as a PNG file.
+
+## Access the Project
+
+You can access the project using the following link:  
+[QR Code Generator Web App](https://qrcode-generator-by-ammarali.streamlit.app/)
 
 ## Requirements
 
