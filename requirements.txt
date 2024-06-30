@@ -1,4 +1,4 @@
-Pillow==10.0.0
+
 Pillow==10.3.0
 qrcode==7.4.2
 streamlit==1.33.0
